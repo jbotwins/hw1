@@ -83,6 +83,7 @@ section {
   color: white;
   font-weight: bold;
   padding-top: calc(var(--standard-margin) * 4);
+  transition: 1s;
 }
 
 .column-container .data:hover span {
